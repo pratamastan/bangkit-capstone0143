@@ -1,4 +1,4 @@
-# bangkit-capstone0143
+# Indonesian Paraphrase Detection
 Model for detecting paraphrases in Indonesian
 
 Trained on Quora question pair dataset, translated to Indonesian with Google Translate
