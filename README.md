@@ -3,7 +3,7 @@ Model for detecting paraphrases in Indonesian
 
 Trained on Quora question pair dataset, translated to Indonesian with Google Translate
 
-The Draft folder contains codes in draft process
+The Draft folder contains codes in draft process, the final model is in the front page (spratama_model.ipynb)
 
 train.csv and train complete.xlsx is the original dataset retrieved from https://www.kaggle.com/c/quora-question-pairs/data
 
