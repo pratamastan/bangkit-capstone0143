@@ -7,7 +7,7 @@ The Draft folder contains codes in draft process
 
 train.csv and train complete.xlsx is the original dataset retrieved from https://www.kaggle.com/c/quora-question-pairs/data
 
-train complete indo is the translated dataset with Google Translate from English to Indonesian
+train complete indo is the translated dataset
 
 References:
 1.	Bengio, Y., Ducharme, R., Vincent, P., and Jauvin, C. (2003). A neural probabilistic language model. Journal of Machine Learning Research, 3:1137-1155.
